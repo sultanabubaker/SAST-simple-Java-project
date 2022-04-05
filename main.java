@@ -1,4 +1,4 @@
-package com.wss.sultan.test
+package com.wss.sultan.test;
 
 import java.io.File;
 
