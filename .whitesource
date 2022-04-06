@@ -4,7 +4,9 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "enableSAST":true
+    "enableSAST":true,
+    "enableLicenseViolations": true,
+    "enableIaC": true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
